@@ -1,5 +1,7 @@
 # speed_date
-A simple wrapper for Pandas to_datetime method that speeds up datetime conversions.
+A simple wrapper for Pandas to_datetime method that speeds up datetime conversions. 
+
+There is not much to this, but if you have a lot of datetime conversions to do it will be faster than the vanilla method and takes all the same args. 
 
 ### Installation
 
